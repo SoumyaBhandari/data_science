@@ -1,0 +1,10 @@
+y=[4,5,4,1,6,9,0,4]
+y.insert(2,7)
+print(y)
+y.insert(2,[5,6])
+print(y)
+#extend
+a=[1,2,3,4]
+b=[4,5,6,6]
+a.extend(b)
+print(a)

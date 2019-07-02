@@ -1,0 +1,9 @@
+a=()
+print(type(a))
+a=(1,)
+print(type(a))
+w="hello"
+print(type(w))
+p=(7,8,9,1,2,3,4,4)
+new=list(p)
+print(new)
